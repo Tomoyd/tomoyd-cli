@@ -1,6 +1,6 @@
 {
   "name": "tomoyd-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "https://github.com/Tomoyd/tomoyd-cli.git",
   "author": "Tomoyd <huyudong01@fangdd.com>",
