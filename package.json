@@ -7,12 +7,13 @@
   "license": "MIT",
   "publisher": "tomoyd",
   "bin": {
-    "@tomoyd/auth_cli": "./index.js"
+    "@tomoyd/au_cli": "./index.js"
   },
   "scripts": {
     "debug": "nodemon --no-stdin index.js",
     "start": "node index.js"
   },
+  "homepage": "https://github.com/Tomoyd/tomoyd-cli#README.md",
   "dependencies": {
     "chalk": "^4.1.0",
     "clear": "^0.1.0",
