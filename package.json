@@ -1,0 +1,26 @@
+{
+  "name": "tomoyd-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tomoyd/tomoyd-cli.git",
+  "author": "Tomoyd <huyudong01@fangdd.com>",
+  "license": "MIT",
+  "publisher": "tomoyd",
+  "bin": {
+    "@tomoyd/auth_cli": "./index.js"
+  },
+  "scripts": {
+    "debug": "nodemon --no-stdin index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "configstore": "^5.0.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.1.0"
+  }
+}
