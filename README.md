@@ -10,3 +10,18 @@
 - log-symbols：提供可嵌入文本的命令行友好字符
 - node-fetch:为 Nodejs 提供原生的 JavaScript Fetch() API
 - ora:可配置的命令行旋转器，当程序在等待服务器响应，生成或者编译项目，或者做其他耗时任务，它是很有用的
+
+## 版本发布
+
+- major
+- minor
+- patch
+- premajor
+- preminor
+- prepatch
+- prerelease
+
+# 取消版本
+
+- npm unpublish
+- npm deprecate
